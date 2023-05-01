@@ -36,5 +36,5 @@ However, this approach is likely to introduce challenges in testing, accidental 
 
 
 
-Testing Approach
-![](./about/request-flow-tests.jpg)
+# Testing Approach
+![](/about/request-flow-tests.png)
